@@ -1,0 +1,5 @@
+[
+ { "name":"system-room1","path":"system-room1","description":"desc 1","groups":[{"name":"g1","access":"manage"}] },
+ { "name":"system-room2","path":"system-room2","description":"desc 2","groups":[{"name":"g1"}, {"name":"g2"}] },
+ { "name":"system-room3","path":"system-room3","description":"desc 3","groups":[{"name":"g3"}] }
+]

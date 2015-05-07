@@ -1,0 +1,6 @@
+[
+ { "nick":"su1","email":"su1@aston.sk","admin":false,"groups":["g1"] },
+ { "nick":"su2","email":"su2@aston.sk","admin":false,"groups":["g2"] },
+ { "nick":"su3","email":"su3@aston.sk","admin":false,"groups":["g3"] }
+]
+
